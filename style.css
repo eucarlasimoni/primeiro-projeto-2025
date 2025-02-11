@@ -9,6 +9,7 @@ background-color: hotpink;
 
 }
 .primeirasecao{
+    display: flex;
     width: 1000px;
     height: 500px; 
     background-color: orchid ( 218,112,214);
