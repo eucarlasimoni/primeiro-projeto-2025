@@ -3,13 +3,18 @@ width: 200px; ;
 }
 
 .cabecalho{
-width: 300px; 
-height: 200px; 
+width: 1400px; 
+height: 500px; 
 background-color: hotpink;
 
 }
 .primeirasecao{
-    width: 100px;
+    width: 1000px;
     height: 500px; 
-    background-color: orchid( 218,112,214);
+    background-color: orchid ( 218,112,214);
+}
+.divisao{
+    width: 200px;
+    height: 200px;
+    background-color: hotpink;
 }
